@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FTurci
 - 👀 I’m interested in computational science.
 - 🌱 I’m currently learning about active matter.
-- 💞️ I’m looking to collaborate on structura descriptors for disordered systems.
+- 💞️ I’m looking to collaborate on structural descriptors for disordered systems.
 - 📫 Contact me at f.turci@bristol.ac.uk
 
 <!---
